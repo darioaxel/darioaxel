@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋 my name is Darío Ureña</h1>
 
-<h3 align="center">I'm a Software Engineer that changed his life to teach youth IT students in the official higher level professional training of Spain. I'm currently learning web development with Vue, Nuxt, JavaScript, Typescript and other frontend technologies, but I have some electronic projects with Raspberry Pi.</h3>
+<h3 align="center">I'm a Software Engineer that changed his life to teach youth IT students in the professional training schools of Spain. I'm currently learning web development with Vue, Nuxt, JavaScript, Typescript and other frontend technologies, but I have some electronic projects with Raspberry Pi.</h3>
 
 <p align="center">
   <a href="https://twitter.com/darioaxel" target="blank">
