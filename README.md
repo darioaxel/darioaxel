@@ -11,7 +11,7 @@
   </a>
 </p>
 
-- 🤓 I’m teaching in [IES Ítaca](https://www.e-itaca.es/) and [IES Félix de Azara](http://iesfelixdeazara.catedu.es/)
+- 🤓 I’m teaching at [IES Ítaca](https://www.e-itaca.es/) and [IES Félix de Azara](http://iesfelixdeazara.catedu.es/)
 
 - 💬 Ask me about **Javascript, Vue, or about web development**
 
@@ -34,8 +34,8 @@
 
 ## Other things that I do
 
-- I really enjoy sports like Rugby, Handball, Kitesurf and so many other see related activities.
-- :books: Hungry reader mostly historical and black literature.
+- :rugby_football: I really enjoy sports like Rugby, Handball, Kitesurf and so many other see related activities.
+- :books: Hungry reader mostly historical and noir fiction.
 - :notes: Music!:notes: Live concerts and festivals.
 - :beers: Beers!!! And :pizza: Pizza!! :beer: And beer ;-)
 
