@@ -32,3 +32,10 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="angularjs" width="40" height="40"/>
 </p>
 
+## Other things that I do
+
+- I really enjoy sports like Rugby, Handball, Kitesurf and so many other see related activities.
+- :books: Hungry reader mostly historical and black literature.
+- :notes: Music!:notes: Live concerts and festivals.
+- :beers: Beers!!! And :pizza: Pizza!! :beer: And beer ;-)
+
