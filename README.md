@@ -34,7 +34,7 @@
 
 ## Other things that I do
 
-- :rugby_football: I really enjoy sports like Rugby, Handball, Kitesurf and so many other see related activities.
+- :rugby_football: I really enjoy sports like Rugby, Handball, Kitesurf and so many other ocean related activities.
 - :books: Hungry reader mostly historical and noir fiction.
 - :notes: Music!:notes: Live concerts and festivals.
 - :beers: Beers!!! And :pizza: Pizza!! :beer: And beer ;-)
