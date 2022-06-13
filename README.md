@@ -13,7 +13,7 @@
 
 - 🤓 I’m teaching at [IES Pablo Serrano](https://www.iespabloserrano.es). I've also worked before at [IES Ítaca](https://www.e-itaca.es/) and [IES Félix de Azara](http://iesfelixdeazara.catedu.es/)
 
-- 💬 Ask me about **Javascript, Vue, or about web development**
+- 💬 Ask me about **Javascript, Vue, Nuxt or about other things of web development**
 
 - 📫 Reach me on **[twitter](https://twitter.com/darioaxel)**
 
