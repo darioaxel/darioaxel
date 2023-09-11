@@ -11,7 +11,7 @@
   </a>
 </p>
 
-- 🤓 I’m teaching at [IES Pablo Serrano](https://www.iespabloserrano.es). I've also worked before at [IES Ribera del Tajo](https://www.riberadeltajo.es),  [IES Ítaca](https://www.e-itaca.es/) and [IES Félix de Azara](http://iesfelixdeazara.catedu.es/)
+- 🤓 I’m teaching at [Campus Digital FP - Aragón](http://www.campusdigitalfp.com)  I've also worked before at [IES Pablo Serrano](https://www.iespabloserrano.es), [IES Ribera del Tajo](https://www.riberadeltajo.es),  [IES Ítaca](https://www.e-itaca.es/) and [IES Félix de Azara](http://iesfelixdeazara.catedu.es/)
 
 - 💬 Ask me about **Javascript, Vue, Nuxt or about other things of web development**
 
